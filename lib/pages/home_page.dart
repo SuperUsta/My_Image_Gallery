@@ -18,7 +18,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       backgroundColor: Colors.grey,
       appBar: AppBar(
-        title: const Text("My Gallery"),
+        title: const Text("My Image Gallery"),
         centerTitle: true,
         actions: [
           IconButton(
